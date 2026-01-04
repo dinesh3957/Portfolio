@@ -75,9 +75,7 @@ const Navbar = () => {
       <li><Link to="/contact">Contact</Link></li>
     </ul>
   </div>
-  <div className="navbar-end">
-    <a className="btn">Button</a>
-  </div>
+ 
 </div>
   </>
   )
