@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: ["light"];
+  darkTheme: "light";
+}
+
+@layer base {
+  body {
+    @apply bg-white text-black;
+  }
+}
